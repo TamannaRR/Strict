@@ -1,0 +1,332 @@
+@media  (max-width: 343.98px) {
+    .navbar-light .navbar-toggler {
+        font-size: 12px;
+    }
+    .logo img{
+        width: 70%;
+    }
+    .navbar-nav{
+        font-size: 13px;
+    }
+    .hg {
+        height: 350px;
+    }
+    .content h1{
+        font-size: 33px;
+    }
+    .content p{
+        font-size: 13px;
+    }
+    .btn-custom{
+        font-size: 13px;
+    }
+    .icon i{
+        font-size: 18px;
+    }
+    @keyframes icon-ani{
+        0% {
+            transform: translate(-50%, -50px);
+        }
+        100% {
+            transform: translate(-50%,-70px);
+        }
+    }
+    .design h1{
+        font-size: 25px;
+    }
+    .design p{
+        font-size: 14px;
+    }
+    .icon-box{ 
+        height: 77px;
+        width: 77px;
+        font-size: 25px;
+        line-height: 85px;
+        margin-top: 20px;
+    }
+    .icon-three{
+        margin: auto;
+    }
+
+    .feature-content h4{
+        font-size: 16px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        font-weight: 600;
+    }
+    .feature-content p{
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+    .showcase-content h2{
+        font-size: 23px;
+    }
+    .showcase-icon i{
+        font-size: 9px;
+        padding: 5px;
+	    border-radius: 5px;
+	    margin-left: 1px;
+    }
+    .contact-content h2{
+        font-size: 20px;
+    }
+    .contact-content p{
+        font-size: 14px;
+    }
+    .subscribe li{
+        font-size: 11px;
+    }
+    .btn-contact{
+        font-size: 11px;
+        padding: 2px 9px;
+        
+    }
+    footer p{
+        font-size: 12px;
+    }
+    footer .right a{
+        height: 23px;
+        width: 23px;
+        font-size: 11px;
+    }
+    
+
+}
+@media  (min-width: 344px) and (max-width: 575.98px) { 
+    .navbar-light .navbar-toggler {
+        font-size: 12px;
+    }
+    .logo img{
+        width: 70%;
+    }
+    .navbar-nav{
+        font-size: 13px;
+    }
+    .hg {
+        height: 350px;
+    }
+    .content h1{
+        font-size: 33px;
+    }
+    .content p{
+        font-size: 13px;
+    }
+    .btn-custom{
+        font-size: 13px;
+    }
+    .icon i{
+        font-size: 18px;
+    }
+    @keyframes icon-ani{
+        0% {
+            transform: translate(-50%, -50px);
+        }
+        100% {
+            transform: translate(-50%,-70px);
+        }
+    }
+    .design h1{
+        font-size: 25px;
+    }
+    .design p{
+        font-size: 14px;
+    }
+    .icon-box{ 
+        height: 77px;
+        width: 77px;
+        font-size: 25px;
+        line-height: 85px;
+        margin-top: 20px;
+    }
+    .icon-three{
+        margin: auto;
+    }
+
+    .feature-content h4{
+        font-size: 16px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+        font-weight: 600;
+    }
+    .feature-content p{
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+    .showcase-content h2{
+        font-size: 23px;
+    }
+    .showcase-icon i{
+        font-size: 11px;
+        padding: 7px;
+	    border-radius: 5px;
+	    margin-left: 2px;
+    }
+    .contact-content h2{
+        font-size: 20px;
+    }
+    .contact-content p{
+        font-size: 14px;
+    }
+    .subscribe li{
+        font-size: 13px;
+    }
+    .btn-contact{
+        font-size: 12px;
+        padding: 5px 15px;
+    }
+    footer p{
+        font-size: 14px;
+    }
+    footer .right a{
+        height: 26px;
+        width: 26px;
+        font-size: 14px;
+    }
+    
+ }
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .navbar-light .navbar-toggler {
+        font-size: 12px;
+    }
+    .logo img{
+        width: 70%;
+    }
+    .navbar-nav{
+        font-size: 13px;
+    }
+    .hg {
+        height: 400px;
+    }
+    .content h1{
+        font-size: 33px;
+    }
+    .content p{
+        font-size: 13px;
+    }
+    .btn-custom{
+        font-size: 13px;
+    }
+    .icon i{
+        font-size: 18px;
+    }
+    @keyframes icon-ani{
+        0% {
+            transform: translate(-50%, -40px);
+        }
+        100% {
+            transform: translate(-50%,-70px);
+        }
+    }
+    .design h1{
+        font-size: 30px;
+    }
+    .design p{
+        font-size: 15px;
+    }
+    .icon-box{ 
+        height: 90px;
+        width: 90px;
+        font-size: 30px;
+        
+    }
+    .icon-three{
+        margin: auto;
+    }
+    .feature-content h4{
+        font-size: 20px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .feature-content p{
+        font-size: 14px;
+    }
+    .showcase-content h2{
+        font-size: 24px;
+    }
+    .showcase-icon i{
+        font-size: 12px;
+        padding: 8px;
+	    border-radius: 5px;
+	    margin-left: 4px;
+    }
+    .contact-content h2{
+        font-size: 23px;
+    }
+    .contact-content p{
+        font-size: 15px;
+    }
+    .subscribe li{
+        font-size: 15px;
+    }
+    .btn-contact{
+        padding: 5px 14px;
+        font-size: 15px;
+    }
+    footer .right a{
+        height: 33px;
+        width: 33px;
+    }
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .navbar-light .navbar-toggler {
+        font-size: 16px;
+    }
+    .logo img{
+        width: 80%;
+    }
+    .navbar-nav{
+        font-size: 15px;
+    }
+    .hg {
+        height: 500px;
+    }
+    .content h1{
+        font-size: 35px;
+    }
+    .content p{
+        font-size: 14px;
+    }
+    .btn-custom{
+        font-size: 14px;
+    }
+    .icon i{
+        font-size: 19px;
+    }
+    
+    .design h1{
+        font-size: 32px;
+    }
+    .design p{
+        font-size: 16px;
+    }
+    .icon-box{ 
+        height: 90px;
+        width: 90px;
+        font-size: 32px;
+    }
+    .feature-content h4{
+        font-size: 23px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .feature-content p{
+        font-size: 14px;
+    }
+ }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .hg {
+        height: 500px;
+    }
+    .content h1{
+        font-size: 45px;
+    }
+ }
+
+
+@media (min-width: 1200px) {  }
